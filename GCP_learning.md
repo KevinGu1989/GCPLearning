@@ -37,6 +37,6 @@ Porject is top level billing instance on GCP
 
 # Compute Options
 ## GCP offers three Compute Options for running could apps
-1.Google AppEngine is the PaaS option - serverless and ops-free
-2.Google ComputeEngine is the IaaS option - fully controllable down to OS
-3.Google Container Engine lies in between - clusters of machies runnig Kubernetes and hosting containers
+++ 1.Google AppEngine is the PaaS option - serverless and ops-free
+++ 2.Google ComputeEngine is the IaaS option - fully controllable down to OS
+++ 3.Google Container Engine lies in between - clusters of machies runnig Kubernetes and hosting containers
