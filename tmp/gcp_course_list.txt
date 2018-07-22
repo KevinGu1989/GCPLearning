@@ -1,0 +1,543 @@
+Section: 1
+2 / 2
+You, This Course and Us
+1. You, This Course and Us
+2:01
+2. Course Materials
+TensorFlowSourceCode.zip
+PersonsDataSchema.json.zip
+Loonycorn_GCP_Slides.zip
+Section: 2
+4 / 4
+Introduction
+3. Theory, Practice and Tests
+10:26
+4. Lab: Setting Up A GCP Account
+6:59
+5. Lab: Using The Cloud Shell
+6:01
+6. Important! Delete unused GCP projects/instances
+Section: 3
+15 / 15
+Compute
+7. About this section
+8. Compute Options
+9:16
+9. Google Compute Engine (GCE)
+7:38
+10. Lab: Creating a VM Instance
+5:59
+11. More GCE
+8:12
+12. Lab: Editing a VM Instance
+4:45
+13. Lab: Creating a VM Instance Using The Command Line
+4:43
+14. Lab: Creating And Attaching A Persistent Disk
+4:00
+15. Google Container Engine - Kubernetes (GKE)
+10:33
+16. More GKE
+9:54
+17. Lab: Creating A Kubernetes Cluster And Deploying A Wordpress Container
+6:55
+18. App Engine
+6:48
+19. Contrasting App Engine, Compute Engine and Container Engine
+6:02
+20. Lab: Deploy And Run An App Engine App
+7:29
+Quiz 1: Compute
+Section: 4
+14 / 15
+Storage
+21. About this section
+22. Storage Options
+9:48
+23. Quick Take
+13:41
+24. Cloud Storage
+10:37
+25. Lab: Working With Cloud Storage Buckets
+5:25
+26. Lab: Bucket And Object Permissions
+3:52
+27. Lab: Life cycle Management On Buckets
+5:06
+28. Fix for AccessDeniedException: 403 Insufficient Permission
+29. Lab: Running A Program On a VM Instance And Storing Results on Cloud Storage
+7:09
+30. Transfer Service
+5:06
+31. Lab: Migrating Data Using The Transfer Service
+5:32
+32. gcloud init
+33. Lab: Cloud Storage ACLs and API access with Service Account
+7:49
+34. Lab: Cloud Storage Customer-Supplied Encryption Keys and Life-Cycle Management
+9:27
+35. Lab: Cloud Storage Versioning, Directory Sync
+8:41
+Section: 5
+8 / 9
+Cloud SQL, Cloud Spanner ~ OLTP ~ RDBMS
+36. About this section
+37. Cloud SQL
+7:40
+38. Lab: Creating A Cloud SQL Instance
+7:54
+39. Lab: Running Commands On Cloud SQL Instance
+6:31
+40. Lab: Bulk Loading Data Into Cloud SQL Tables
+9:09
+41. Cloud Spanner
+7:25
+42. More Cloud Spanner
+9:18
+43. Lab: Working With Cloud Spanner
+6:49
+44. Important! Delete unused GCP projects/instances
+Section: 6
+1 / 1
+Hadoop Pre-reqs and Context
+45. Hadoop Pre-reqs and Context
+Section: 7
+8 / 9
+BigTable ~ HBase = Columnar Store
+46. About this section
+47. BigTable Intro
+7:57
+48. Columnar Store
+8:12
+49. Denormalised
+9:02
+50. Column Families
+8:09
+51. BigTable Performance
+13:19
+52. Getting the HBase Prompt
+53. Lab: BigTable demo
+7:39
+54. Important! Delete unused GCP projects/instances
+Section: 8
+4 / 4
+Datastore ~ Document Database
+55. About this section
+56. Datastore
+14:10
+57. Lab: Datastore demo
+6:42
+Quiz 2: Datastore
+Section: 9
+11 / 12
+BigQuery ~ Hive ~ OLAP
+58. About this section
+59. BigQuery Intro
+11:03
+60. BigQuery Advanced
+9:59
+61. Lab: Loading CSV Data Into Big Query
+9:03
+62. Lab: Running Queries On Big Query
+5:26
+63. Lab: Loading JSON Data With Nested Tables
+7:28
+64. Lab: Public Datasets In Big Query
+8:16
+65. Lab: Using Big Query Via The Command Line
+7:45
+66. Lab: Aggregations And Conditionals In Aggregations
+9:51
+67. Lab: Subqueries And Joins
+5:44
+68. Lab: Regular Expressions In Legacy SQL
+5:36
+69. Lab: Using The With Statement For SubQueries
+10:45
+Section: 10
+10 / 11
+Dataflow ~ Apache Beam
+70. About this section
+71. Data Flow Intro
+11:04
+72. Apache Beam
+3:42
+73. Lab: Running A Python Data flow Program
+12:56
+74. Lab: Running A Java Data flow Program
+13:42
+75. Lab: Implementing Word Count In Dataflow Java
+11:17
+76. Lab: Executing The Word Count Dataflow
+4:37
+77. Lab: Executing MapReduce In Dataflow In Python
+9:49
+78. Lab: Executing MapReduce In Dataflow In Java
+6:08
+79. Lab: Dataflow With Big Query As Source And Side Inputs
+15:50
+80. Lab: Dataflow With Big Query As Source And Side Inputs 2
+6:28
+Section: 11
+7 / 8
+Dataproc ~ Managed Hadoop
+81. About this section
+82. Data Proc
+8:28
+83. Lab: Creating And Managing A Dataproc Cluster
+8:11
+84. Lab: Creating A Firewall Rule To Access Dataproc
+8:25
+85. Lab: Running A PySpark Job On Dataproc
+7:39
+86. Lab: Running The PySpark REPL Shell And Pig Scripts On Dataproc
+8:44
+87. Lab: Submitting A Spark Jar To Dataproc
+2:10
+88. Lab: Working With Dataproc Using The GCloud CLI
+8:19
+Section: 12
+1 / 10
+Pub/Sub for Streaming
+89. About this section
+90. Pub Sub
+8:23
+91. Lab: Working With Pubsub On The Command Line
+5:35
+92. Lab: Working With PubSub Using The Web Console
+4:39
+93. Lab: Setting Up A Pubsub Publisher Using The Python Library
+5:52
+94. Lab: Setting Up A Pubsub Subscriber Using The Python Library
+4:08
+95. Lab: Publishing Streaming Data Into Pubsub
+8:18
+96. Lab: Reading Streaming Data From PubSub And Writing To BigQuery
+10:14
+97. Lab: Executing A Pipeline To Read Streaming Data And Write To BigQuery
+5:54
+98. Lab: Pubsub Source BigQuery Sink
+10:19
+Section: 13
+0 / 5
+Datalab ~ Jupyter
+99. About this section
+100. Data Lab
+3:00
+101. Lab: Creating And Working On A Datalab Instance
+4:01
+102. Lab: Importing And Exporting Data Using Datalab
+12:14
+103. Lab: Using The Charting API In Datalab
+6:43
+Section: 14
+0 / 28
+TensorFlow and Machine Learning
+104. About this section
+105. Introducing Machine Learning
+8:04
+TensorFlowSourceCode.zip
+106. Representation Learning
+10:27
+TensorFlowSourceCode.zip
+107. NN Introduced
+7:35
+TensorFlowSourceCode.zip
+108. Introducing TF
+7:16
+TensorFlowSourceCode.zip
+109. Lab: Simple Math Operations
+8:46
+TensorFlowSourceCode.zip
+110. Computation Graph
+10:17
+TensorFlowSourceCode.zip
+111. Tensors
+9:02
+TensorFlowSourceCode.zip
+112. Lab: Tensors
+5:03
+TensorFlowSourceCode.zip
+113. Linear Regression Intro
+9:57
+TensorFlowSourceCode.zip
+114. Placeholders and Variables
+8:44
+TensorFlowSourceCode.zip
+115. Lab: Placeholders
+6:36
+TensorFlowSourceCode.zip
+116. Lab: Variables
+7:49
+TensorFlowSourceCode.zip
+117. Lab: Linear Regression with Made-up Data
+4:52
+TensorFlowSourceCode.zip
+118. Image Processing
+8:05
+TensorFlowSourceCode.zip
+119. Images As Tensors
+8:16
+TensorFlowSourceCode.zip
+120. Lab: Reading and Working with Images
+8:05
+TensorFlowSourceCode.zip
+121. Lab: Image Transformations
+6:37
+TensorFlowSourceCode.zip
+122. Introducing MNIST
+4:13
+TensorFlowSourceCode.zip
+123. K-Nearest Neigbors
+7:42
+TensorFlowSourceCode.zip
+124. One-hot Notation and L1 Distance
+7:31
+TensorFlowSourceCode.zip
+125. Steps in the K-Nearest-Neighbors Implementation
+9:32
+TensorFlowSourceCode.zip
+126. Lab: K-Nearest-Neighbors
+14:14
+TensorFlowSourceCode.zip
+127. Learning Algorithm
+10:58
+TensorFlowSourceCode.zip
+128. Individual Neuron
+9:52
+TensorFlowSourceCode.zip
+129. Learning Regression
+7:51
+TensorFlowSourceCode.zip
+130. Learning XOR
+10:26
+TensorFlowSourceCode.zip
+131. XOR Trained
+11:11
+TensorFlowSourceCode.zip
+Section: 15
+0 / 17
+Regression in TensorFlow
+132. About this section
+133. Lab: Access Data from Yahoo Finance
+2:49
+TensorFlowSourceCode.zip
+134. Non TensorFlow Regression
+8:05
+TensorFlowSourceCode.zip
+135. Lab: Linear Regression - Setting Up a Baseline
+11:18
+TensorFlowSourceCode.zip
+136. Gradient Descent
+9:56
+TensorFlowSourceCode.zip
+137. Lab: Linear Regression
+14:42
+TensorFlowSourceCode.zip
+138. Lab: Multiple Regression in TensorFlow
+9:15
+TensorFlowSourceCode.zip
+139. Logistic Regression Introduced
+10:16
+TensorFlowSourceCode.zip
+140. Linear Classification
+5:25
+TensorFlowSourceCode.zip
+141. Lab: Logistic Regression - Setting Up a Baseline
+7:33
+TensorFlowSourceCode.zip
+142. Logit
+8:33
+TensorFlowSourceCode.zip
+143. Softmax
+11:55
+TensorFlowSourceCode.zip
+144. Argmax
+12:13
+TensorFlowSourceCode.zip
+145. Lab: Logistic Regression
+16:56
+TensorFlowSourceCode.zip
+146. Estimators
+4:10
+TensorFlowSourceCode.zip
+147. Lab: Linear Regression using Estimators
+7:49
+TensorFlowSourceCode.zip
+148. Lab: Logistic Regression using Estimators
+4:54
+TensorFlowSourceCode.zip
+Section: 16
+0 / 5
+Vision, Translate, NLP and Speech: Trained ML APIs
+149. About this section
+150. Lab: Taxicab Prediction - Setting up the dataset
+14:38
+151. Lab: Taxicab Prediction - Training and Running the model
+11:22
+152. Lab: The Vision, Translate, NLP and Speech API
+10:53
+153. Lab: The Vision API for Label and Landmark Detection
+6:59
+Section: 17
+0 / 8
+Virtual Machines and Images
+154. About this section
+155. Live Migration
+10:16
+156. Machine Types and Billing
+9:20
+157. Sustained Use and Committed Use Discounts
+7:03
+158. Rightsizing Recommendations
+2:22
+159. RAM Disk
+2:07
+160. Images
+7:45
+161. Startup Scripts And Baked Images
+7:31
+Section: 18
+0 / 21
+VPCs and Interconnecting Networks
+162. About this section
+163. VPCs And Subnets
+11:14
+164. Global VPCs, Regional Subnets
+11:19
+165. IP Addresses
+11:39
+166. Lab: Working with Static IP Addresses
+5:46
+167. Routes
+7:36
+168. Firewall Rules
+15:33
+169. Lab: Working with Firewalls
+7:05
+170. Lab: Working with Auto Mode and Custom Mode Networks
+19:32
+171. Lab: Bastion Host
+7:10
+172. Cloud VPN
+7:26
+173. Lab: Working with Cloud VPN
+11:11
+174. Cloud Router
+10:31
+175. Lab: Using Cloud Routers for Dynamic Routing
+14:07
+176. Dedicated Interconnect Direct and Carrier Peering
+8:10
+177. Shared VPCs
+10:11
+178. Lab: Shared VPCs
+6:17
+179. VPC Network Peering
+10:10
+180. Lab: VPC Peering
+7:16
+181. Cloud DNS And Legacy Networks
+5:18
+Quiz 3: Networking
+Section: 19
+0 / 15
+Managed Instance Groups and Load Balancing
+182. About this section
+183. Managed and Unmanaged Instance Groups
+10:53
+184. Types of Load Balancing
+5:46
+185. Overview of HTTP(S) Load Balancing
+9:20
+186. Forwarding Rules Target Proxy and Url Maps
+8:31
+187. Backend Service and Backends
+9:28
+188. Load Distribution and Firewall Rules
+4:28
+189. Lab: HTTP(S) Load Balancing
+11:21
+190. Lab: Content Based Load Balancing
+7:06
+191. SSL Proxy and TCP Proxy Load Balancing
+5:05
+192. Lab: SSL Proxy Load Balancing
+7:49
+193. Network Load Balancing
+5:07
+194. Internal Load Balancing
+7:16
+195. Autoscalers
+11:51
+196. Lab: Autoscaling with Managed Instance Groups
+12:22
+Section: 20
+0 / 14
+Ops and Security
+197. About this section
+198. StackDriver
+12:08
+199. StackDriver Logging
+7:39
+200. Lab: Stackdriver Resource Monitoring
+8:12
+firewall_rules_create.txt
+nginx_create_instances.txt
+201. Lab: Stackdriver Error Reporting and Debugging
+5:51
+202. Cloud Deployment Manager
+6:05
+203. Lab: Using Deployment Manager
+5:10
+204. Lab: Deployment Manager and Stackdriver
+8:26
+205. Cloud Endpoints
+3:48
+206. Cloud IAM: User accounts, Service accounts, API Credentials
+9:03
+207. Cloud IAM: Roles, Identity-Aware Proxy, Best Practices
+9:31
+208. Lab: Cloud IAM
+11:57
+209. Data Protection
+12:01
+Quiz 4: Operations and Security
+Section: 21
+0 / 18
+Appendix: Hadoop Ecosystem
+210. Introducing the Hadoop Ecosystem
+1:34
+211. Hadoop
+9:42
+212. HDFS
+10:55
+213. MapReduce
+10:34
+214. Yarn
+5:29
+215. Hive
+7:19
+216. Hive vs. RDBMS
+7:10
+217. HQL vs. SQL
+7:35
+218. OLAP in Hive
+7:34
+219. Windowing Hive
+8:22
+220. Pig
+8:03
+221. More Pig
+6:38
+222. Spark
+8:54
+223. More Spark
+11:45
+224. Streams Intro
+7:44
+225. Microbatches
+5:40
+226. Window Types
+5:46
+Quiz 5: Hadoop Ecosystem
