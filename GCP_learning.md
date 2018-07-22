@@ -2,16 +2,12 @@
 
 
 
-# Section: 1 
- 
-# You, This Course and Us 
+# Section: 1 You, This Course and Us 
 ## 1. You, This Course and Us 
  
 ## 2. Course Materials 
  
-# Section: 2 
- 
-# Introduction 
+# Section: 2 Introduction 
  
 ## 3. Theory, Practice and Tests 
 ###Test
@@ -56,12 +52,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 3 
-
- 
-
- 
-# Compute 
+# Section: 3 Compute 
 
  
 
@@ -144,12 +135,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 4 
-
- 
-
- 
-# Storage 
+# Section: 4 Storage 
 
  
 
@@ -229,12 +215,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 5 
-
- 
-
- 
-# Cloud SQL, Cloud Spanner ~ OLTP ~ RDBMS 
+# Section: 5 Cloud SQL, Cloud Spanner ~ OLTP ~ RDBMS 
 
  
 
@@ -279,12 +260,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 6 
-
- 
-
- 
-# Hadoop Pre-reqs and Context 
+# Section: 6 Hadoop Pre-reqs and Context 
 
  
 
@@ -294,12 +270,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 7 
-
- 
-
- 
-# BigTable ~ HBase = Columnar Store 
+# Section: 7 BigTable ~ HBase = Columnar Store 
 
  
 
@@ -344,12 +315,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 8 
-
- 
-
- 
-# Datastore ~ Document Database 
+# Section: 8 Datastore ~ Document Database 
 
  
 
@@ -374,12 +340,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 9 
-
- 
-
- 
-# BigQuery ~ Hive ~ OLAP 
+# Section: 9 BigQuery ~ Hive ~ OLAP 
 
  
 
@@ -444,12 +405,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 10 
-
- 
-
- 
-# Dataflow ~ Apache Beam 
+# Section: 10 Dataflow ~ Apache Beam 
 
  
 
@@ -509,12 +465,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 11 
-
- 
-
- 
-# Dataproc ~ Managed Hadoop 
+# Section: 11 Dataproc ~ Managed Hadoop 
 
  
 
@@ -559,7 +510,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 12 
+# Section: 12 Pub/Sub for Streaming
 
  
 
@@ -614,15 +565,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 13 
-
- 
-
- 
-# Datalab ~ Jupyter 
-
- 
-
+# Section: 13 Datalab ~ Jupyter
  
 ## 99. About this section 
 
@@ -649,12 +592,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 14 
-
- 
-
- 
-# TensorFlow and Machine Learning 
+# Section: 14 TensorFlow and Machine Learning 
 
  
 
@@ -799,12 +737,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 15 
-
- 
-
- 
-# Regression in TensorFlow 
+# Section: 15 Regression in TensorFlow 
 
  
 
@@ -894,12 +827,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 16 
-
- 
-
- 
-# Vision, Translate, NLP and Speech: Trained ML APIs 
+# Section: 16 Vision, Translate, NLP and Speech: Trained ML APIs 
 
  
 
@@ -929,12 +857,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 17 
-
- 
-
- 
-# Virtual Machines and Images 
+# Section: 17 Virtual Machines and Images 
 
  
 
@@ -979,12 +902,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 18 
-
- 
-
- 
-# VPCs and Interconnecting Networks 
+# Section: 18 VPCs and Interconnecting Networks 
 
  
 
@@ -1094,12 +1012,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 19 
-
- 
-
- 
-# Managed Instance Groups and Load Balancing 
+# Section: 19 Managed Instance Groups and Load Balancing 
 
  
 
@@ -1179,12 +1092,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 20 
-
- 
-
- 
-# Ops and Security 
+# Section: 20 Ops and Security 
 
  
 
@@ -1259,12 +1167,7 @@ Porject is top level billing instance on GCP
  
 
  
-# Section: 21 
-
- 
-
- 
-# Appendix: Hadoop Ecosystem 
+# Section: 21 Appendix: Hadoop Ecosystem 
 
  
 
