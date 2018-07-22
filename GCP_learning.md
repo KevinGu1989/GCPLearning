@@ -1,12 +1,28 @@
 # GCP learning note
-## 1 You,This Course and Us
 
-## 2 Theory, Parctice and Tests
+
+## 8.Compute Options
+### GCP offers three Compute Options for running could apps
++ 1.Google AppEngine is the PaaS option - serverless and ops-free
++ 2.Google ComputeEngine is the IaaS option - fully controllable down to OS
++ 3.Google Container Engine lies in between - clusters of machies runnig Kubernetes and hosting containers
+
+# Section: 1                                                                                
+                                                             
+# You, This Course and Us                                                                   
+## 1. You, This Course and Us                                                               
+                                                                           
+## 2. Course Materials                                                                      
+                                                                             
+# Section: 2                                                                                
+                                                                           
+# Introduction                                                                              
+                                                                 
+## 3. Theory, Practice and Tests                                                            
 ###Test
 Data Engineer
 Cloud Architect
 Both 2 hours,50 questions, multiple-choice
-
 ### Big Data
 BigQuery,DataFlow,Pub/Sub
 
@@ -33,18 +49,1312 @@ API keys, load balancing
 ### Drills and Labs
 -Syntax is tested too
 -Implementation knowledge essential
-
-## 4.Labs:Setting up a GCP Account
+                                                           
+## 4. Lab: Setting Up A GCP Account                                                         
 Porject is top level billing instance on GCP
 
-## 5.Labs:Using The Cloud Shell
+                                                                                            
 
-## 6.
+                                                                              
+## 5. Lab: Using The Cloud Shell                                                            
 
-## 8.Compute Options
-### GCP offers three Compute Options for running could apps
-+ 1.Google AppEngine is the PaaS option - serverless and ops-free
-+ 2.Google ComputeEngine is the IaaS option - fully controllable down to OS
-+ 3.Google Container Engine lies in between - clusters of machies runnig Kubernetes and hosting containers
+                                                                                            
 
+                                                                              
+# Section: 3                                                                                
+
+                                                                                            
+
+                                                                              
+# Compute                                                                                   
+
+                                                                                            
+
+                                                                              
+## 7. About this section                                                                    
+
+                                                                                            
+
+                                                                              
+## 8. Compute Options                                                                       
+
+                                                                                            
+
+                                                                              
+## 9. Google Compute Engine (GCE)                                                           
+
+                                                                                            
+
+                                                                              
+## 10. Lab: Creating a VM Instance                                                          
+
+                                                                                            
+
+                                                                              
+## 11. More GCE                                                                             
+
+                                                                                            
+
+                                                                              
+## 12. Lab: Editing a VM Instance                                                           
+
+                                                                                            
+
+                                                                              
+## 13. Lab: Creating a VM Instance Using The Command Line                                   
+
+                                                                                            
+
+                                                                              
+## 14. Lab: Creating And Attaching A Persistent Disk                                        
+
+                                                                                            
+
+                                                                              
+## 15. Google Container Engine - Kubernetes (GKE)                                           
+
+                                                                                            
+
+                                                                              
+## 16. More GKE                                                                             
+
+                                                                                            
+
+                                                                              
+## 17. Lab: Creating A Kubernetes Cluster And Deploying A Wordpress Container               
+
+                                                                                            
+
+                                                                              
+## 18. App Engine                                                                           
+
+                                                                                            
+
+                                                                              
+## 19. Contrasting App Engine, Compute Engine and Container Engine                          
+
+                                                                                            
+
+                                                                              
+## 20. Lab: Deploy And Run An App Engine App                                                
+
+                                                                                            
+
+                                                                              
+## Quiz 1: Compute                                                                          
+
+                                                                                            
+
+                                                                              
+# Section: 4                                                                                
+
+                                                                                            
+
+                                                                              
+# Storage                                                                                   
+
+                                                                                            
+
+                                                                              
+## 21. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 22. Storage Options                                                                      
+
+                                                                                            
+
+                                                                              
+## 23. Quick Take                                                                           
+
+                                                                                            
+
+                                                                              
+## 24. Cloud Storage                                                                        
+
+                                                                                            
+
+                                                                              
+## 25. Lab: Working With Cloud Storage Buckets                                              
+
+                                                                                            
+
+                                                                              
+## 26. Lab: Bucket And Object Permissions                                                   
+
+                                                                                            
+
+                                                                              
+## 27. Lab: Life cycle Management On Buckets                                                
+
+                                                                                            
+
+                                                                              
+## 28. Fix for AccessDeniedException: 403 Insufficient Permission                           
+
+                                                                                            
+
+                                                                              
+## 29. Lab: Running A Program On a VM Instance And Storing Results on Cloud Storage         
+
+                                                                                            
+
+                                                                              
+## 30. Transfer Service                                                                     
+
+                                                                                            
+
+                                                                              
+## 31. Lab: Migrating Data Using The Transfer Service                                       
+
+                                                                                            
+
+                                                                              
+## 32. gcloud init                                                                          
+
+                                                                                            
+
+                                                                              
+## 33. Lab: Cloud Storage ACLs and API access with Service Account                          
+
+                                                                                            
+
+                                                                              
+## 34. Lab: Cloud Storage Customer-Supplied Encryption Keys and Life-Cycle Management       
+
+                                                                                            
+
+                                                                              
+## 35. Lab: Cloud Storage Versioning, Directory Sync                                        
+
+                                                                                            
+
+                                                                              
+# Section: 5                                                                                
+
+                                                                                            
+
+                                                                              
+# Cloud SQL, Cloud Spanner ~ OLTP ~ RDBMS                                                   
+
+                                                                                            
+
+                                                                              
+## 36. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 37. Cloud SQL                                                                            
+
+                                                                                            
+
+                                                                              
+## 38. Lab: Creating A Cloud SQL Instance                                                   
+
+                                                                                            
+
+                                                                              
+## 39. Lab: Running Commands On Cloud SQL Instance                                          
+
+                                                                                            
+
+                                                                              
+## 40. Lab: Bulk Loading Data Into Cloud SQL Tables                                         
+
+                                                                                            
+
+                                                                              
+## 41. Cloud Spanner                                                                        
+
+                                                                                            
+
+                                                                              
+## 42. More Cloud Spanner                                                                   
+
+                                                                                            
+
+                                                                              
+## 43. Lab: Working With Cloud Spanner                                                      
+
+                                                                                            
+
+                                                                              
+# Section: 6                                                                                
+
+                                                                                            
+
+                                                                              
+# Hadoop Pre-reqs and Context                                                               
+
+                                                                                            
+
+                                                                              
+## 45. Hadoop Pre-reqs and Context                                                          
+
+                                                                                            
+
+                                                                              
+# Section: 7                                                                                
+
+                                                                                            
+
+                                                                              
+# BigTable ~ HBase = Columnar Store                                                         
+
+                                                                                            
+
+                                                                              
+## 46. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 47. BigTable Intro                                                                       
+
+                                                                                            
+
+                                                                              
+## 48. Columnar Store                                                                       
+
+                                                                                            
+
+                                                                              
+## 49. Denormalised                                                                         
+
+                                                                                            
+
+                                                                              
+## 50. Column Families                                                                      
+
+                                                                                            
+
+                                                                              
+## 51. BigTable Performance                                                                 
+
+                                                                                            
+
+                                                                              
+## 52. Getting the HBase Prompt                                                             
+
+                                                                                            
+
+                                                                              
+## 53. Lab: BigTable demo                                                                   
+
+                                                                                            
+
+                                                                              
+# Section: 8                                                                                
+
+                                                                                            
+
+                                                                              
+# Datastore ~ Document Database                                                             
+
+                                                                                            
+
+                                                                              
+## 55. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 56. Datastore                                                                            
+
+                                                                                            
+
+                                                                              
+## 57. Lab: Datastore demo                                                                  
+
+                                                                                            
+
+                                                                              
+## Quiz 2: Datastore                                                                        
+
+                                                                                            
+
+                                                                              
+# Section: 9                                                                                
+
+                                                                                            
+
+                                                                              
+# BigQuery ~ Hive ~ OLAP                                                                    
+
+                                                                                            
+
+                                                                              
+## 58. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 59. BigQuery Intro                                                                       
+
+                                                                                            
+
+                                                                              
+## 60. BigQuery Advanced                                                                    
+
+                                                                                            
+
+                                                                              
+## 61. Lab: Loading CSV Data Into Big Query                                                 
+
+                                                                                            
+
+                                                                              
+## 62. Lab: Running Queries On Big Query                                                    
+
+                                                                                            
+
+                                                                              
+## 63. Lab: Loading JSON Data With Nested Tables                                            
+
+                                                                                            
+
+                                                                              
+## 64. Lab: Public Datasets In Big Query                                                    
+
+                                                                                            
+
+                                                                              
+## 65. Lab: Using Big Query Via The Command Line                                            
+
+                                                                                            
+
+                                                                              
+## 66. Lab: Aggregations And Conditionals In Aggregations                                   
+
+                                                                                            
+
+                                                                              
+## 67. Lab: Subqueries And Joins                                                            
+
+                                                                                            
+
+                                                                              
+## 68. Lab: Regular Expressions In Legacy SQL                                               
+
+                                                                                            
+
+                                                                              
+## 69. Lab: Using The With Statement For SubQueries                                         
+
+                                                                                            
+
+                                                                              
+# Section: 10                                                                               
+
+                                                                                            
+
+                                                                              
+# Dataflow ~ Apache Beam                                                                    
+
+                                                                                            
+
+                                                                              
+## 70. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 71. Data Flow Intro                                                                      
+
+                                                                                            
+
+                                                                              
+## 72. Apache Beam                                                                          
+
+                                                                                            
+
+                                                                              
+## 73. Lab: Running A Python Data flow Program                                              
+
+                                                                                            
+
+                                                                              
+## 74. Lab: Running A Java Data flow Program                                                
+
+                                                                                            
+
+                                                                              
+## 75. Lab: Implementing Word Count In Dataflow Java                                        
+
+                                                                                            
+
+                                                                              
+## 76. Lab: Executing The Word Count Dataflow                                               
+
+                                                                                            
+
+                                                                              
+## 77. Lab: Executing MapReduce In Dataflow In Python                                       
+
+                                                                                            
+
+                                                                              
+## 78. Lab: Executing MapReduce In Dataflow In Java                                         
+
+                                                                                            
+
+                                                                              
+## 79. Lab: Dataflow With Big Query As Source And Side Inputs                               
+
+                                                                                            
+
+                                                                              
+## 80. Lab: Dataflow With Big Query As Source And Side Inputs 2                             
+
+                                                                                            
+
+                                                                              
+# Section: 11                                                                               
+
+                                                                                            
+
+                                                                              
+# Dataproc ~ Managed Hadoop                                                                 
+
+                                                                                            
+
+                                                                              
+## 81. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 82. Data Proc                                                                            
+
+                                                                                            
+
+                                                                              
+## 83. Lab: Creating And Managing A Dataproc Cluster                                        
+
+                                                                                            
+
+                                                                              
+## 84. Lab: Creating A Firewall Rule To Access Dataproc                                     
+
+                                                                                            
+
+                                                                              
+## 85. Lab: Running A PySpark Job On Dataproc                                               
+
+                                                                                            
+
+                                                                              
+## 86. Lab: Running The PySpark REPL Shell And Pig Scripts On Dataproc                      
+
+                                                                                            
+
+                                                                              
+## 87. Lab: Submitting A Spark Jar To Dataproc                                              
+
+                                                                                            
+
+                                                                              
+## 88. Lab: Working With Dataproc Using The GCloud CLI                                      
+
+                                                                                            
+
+                                                                              
+# Section: 12                                                                               
+
+                                                                                            
+
+                                                                              
+## 89. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 90. Pub Sub                                                                              
+
+                                                                                            
+
+                                                                              
+## 91. Lab: Working With Pubsub On The Command Line                                         
+
+                                                                                            
+
+                                                                              
+## 92. Lab: Working With PubSub Using The Web Console                                       
+
+                                                                                            
+
+                                                                              
+## 93. Lab: Setting Up A Pubsub Publisher Using The Python Library                          
+
+                                                                                            
+
+                                                                              
+## 94. Lab: Setting Up A Pubsub Subscriber Using The Python Library                         
+
+                                                                                            
+
+                                                                              
+## 95. Lab: Publishing Streaming Data Into Pubsub                                           
+
+                                                                                            
+
+                                                                              
+## 96. Lab: Reading Streaming Data From PubSub And Writing To BigQuery                      
+
+                                                                                            
+
+                                                                              
+## 97. Lab: Executing A Pipeline To Read Streaming Data And Write To BigQuery               
+
+                                                                                            
+
+                                                                              
+## 98. Lab: Pubsub Source BigQuery Sink                                                     
+
+                                                                                            
+
+                                                                              
+# Section: 13                                                                               
+
+                                                                                            
+
+                                                                              
+# Datalab ~ Jupyter                                                                         
+
+                                                                                            
+
+                                                                              
+## 99. About this section                                                                   
+
+                                                                                            
+
+                                                                              
+## 100. Data Lab                                                                            
+
+                                                                                            
+
+                                                                              
+## 101. Lab: Creating And Working On A Datalab Instance                                     
+
+                                                                                            
+
+                                                                              
+## 102. Lab: Importing And Exporting Data Using Datalab                                     
+
+                                                                                            
+
+                                                                              
+## 103. Lab: Using The Charting API In Datalab                                              
+
+                                                                                            
+
+                                                                              
+# Section: 14                                                                               
+
+                                                                                            
+
+                                                                              
+# TensorFlow and Machine Learning                                                           
+
+                                                                                            
+
+                                                                              
+## 104. About this section                                                                  
+
+                                                                                            
+
+                                                                              
+## 105. Introducing Machine Learning                                                        
+
+                                                                                            
+
+                                                                              
+## 106. Representation Learning                                                             
+
+                                                                                            
+
+                                                                              
+## 107. NN Introduced                                                                       
+
+                                                                                            
+
+                                                                              
+## 108. Introducing TF                                                                      
+
+                                                                                            
+
+                                                                              
+## 109. Lab: Simple Math Operations                                                         
+
+                                                                                            
+
+                                                                              
+## 110. Computation Graph                                                                   
+
+                                                                                            
+
+                                                                              
+## 111. Tensors                                                                             
+
+                                                                                            
+
+                                                                              
+## 112. Lab: Tensors                                                                        
+
+                                                                                            
+
+                                                                              
+## 113. Linear Regression Intro                                                             
+
+                                                                                            
+
+                                                                              
+## 114. Placeholders and Variables                                                          
+
+                                                                                            
+
+                                                                              
+## 115. Lab: Placeholders                                                                   
+
+                                                                                            
+
+                                                                              
+## 116. Lab: Variables                                                                      
+
+                                                                                            
+
+                                                                              
+## 117. Lab: Linear Regression with Made-up Data                                            
+
+                                                                                            
+
+                                                                              
+## 118. Image Processing                                                                    
+
+                                                                                            
+
+                                                                              
+## 119. Images As Tensors                                                                   
+
+                                                                                            
+
+                                                                              
+## 120. Lab: Reading and Working with Images                                                
+
+                                                                                            
+
+                                                                              
+## 121. Lab: Image Transformations                                                          
+
+                                                                                            
+
+                                                                              
+## 122. Introducing MNIST                                                                   
+
+                                                                                            
+
+                                                                              
+## 123. K-Nearest Neigbors                                                                  
+
+                                                                                            
+
+                                                                              
+## 124. One-hot Notation and L1 Distance                                                    
+
+                                                                                            
+
+                                                                              
+## 125. Steps in the K-Nearest-Neighbors Implementation                                     
+
+                                                                                            
+
+                                                                              
+## 126. Lab: K-Nearest-Neighbors                                                            
+
+                                                                                            
+
+                                                                              
+## 127. Learning Algorithm                                                                  
+
+                                                                                            
+
+                                                                              
+## 128. Individual Neuron                                                                   
+
+                                                                                            
+
+                                                                              
+## 129. Learning Regression                                                                 
+
+                                                                                            
+
+                                                                              
+## 130. Learning XOR                                                                        
+
+                                                                                            
+
+                                                                              
+## 131. XOR Trained                                                                         
+
+                                                                                            
+
+                                                                              
+# Section: 15                                                                               
+
+                                                                                            
+
+                                                                              
+# Regression in TensorFlow                                                                  
+
+                                                                                            
+
+                                                                              
+## 132. About this section                                                                  
+
+                                                                                            
+
+                                                                              
+## 133. Lab: Access Data from Yahoo Finance                                                 
+
+                                                                                            
+
+                                                                              
+## 134. Non TensorFlow Regression                                                           
+
+                                                                                            
+
+                                                                              
+## 135. Lab: Linear Regression - Setting Up a Baseline                                      
+
+                                                                                            
+
+                                                                              
+## 136. Gradient Descent                                                                    
+
+                                                                                            
+
+                                                                              
+## 137. Lab: Linear Regression                                                              
+
+                                                                                            
+
+                                                                              
+## 138. Lab: Multiple Regression in TensorFlow                                              
+
+                                                                                            
+
+                                                                              
+## 139. Logistic Regression Introduced                                                      
+
+                                                                                            
+
+                                                                              
+## 140. Linear Classification                                                               
+
+                                                                                            
+
+                                                                              
+## 141. Lab: Logistic Regression - Setting Up a Baseline                                    
+
+                                                                                            
+
+                                                                              
+## 142. Logit                                                                               
+
+                                                                                            
+
+                                                                              
+## 143. Softmax                                                                             
+
+                                                                                            
+
+                                                                              
+## 144. Argmax                                                                              
+
+                                                                                            
+
+                                                                              
+## 145. Lab: Logistic Regression                                                            
+
+                                                                                            
+
+                                                                              
+## 146. Estimators                                                                          
+
+                                                                                            
+
+                                                                              
+## 147. Lab: Linear Regression using Estimators                                             
+
+                                                                                            
+
+                                                                              
+## 148. Lab: Logistic Regression using Estimators                                           
+
+                                                                                            
+
+                                                                              
+# Section: 16                                                                               
+
+                                                                                            
+
+                                                                              
+# Vision, Translate, NLP and Speech: Trained ML APIs                                        
+
+                                                                                            
+
+                                                                              
+## 149. About this section                                                                  
+
+                                                                                            
+
+                                                                              
+## 150. Lab: Taxicab Prediction - Setting up the dataset                                    
+
+                                                                                            
+
+                                                                              
+## 151. Lab: Taxicab Prediction - Training and Running the model                            
+
+                                                                                            
+
+                                                                              
+## 152. Lab: The Vision, Translate, NLP and Speech API                                      
+
+                                                                                            
+
+                                                                              
+## 153. Lab: The Vision API for Label and Landmark Detection                                
+
+                                                                                            
+
+                                                                              
+# Section: 17                                                                               
+
+                                                                                            
+
+                                                                              
+# Virtual Machines and Images                                                               
+
+                                                                                            
+
+                                                                              
+## 154. About this section                                                                  
+
+                                                                                            
+
+                                                                              
+## 155. Live Migration                                                                      
+
+                                                                                            
+
+                                                                              
+## 156. Machine Types and Billing                                                           
+
+                                                                                            
+
+                                                                              
+## 157. Sustained Use and Committed Use Discounts                                           
+
+                                                                                            
+
+                                                                              
+## 158. Rightsizing Recommendations                                                         
+
+                                                                                            
+
+                                                                              
+## 159. RAM Disk                                                                            
+
+                                                                                            
+
+                                                                              
+## 160. Images                                                                              
+
+                                                                                            
+
+                                                                              
+## 161. Startup Scripts And Baked Images                                                    
+
+                                                                                            
+
+                                                                              
+# Section: 18                                                                               
+
+                                                                                            
+
+                                                                              
+# VPCs and Interconnecting Networks                                                         
+
+                                                                                            
+
+                                                                              
+## 162. About this section                                                                  
+
+                                                                                            
+
+                                                                              
+## 163. VPCs And Subnets                                                                    
+
+                                                                                            
+
+                                                                              
+## 164. Global VPCs, Regional Subnets                                                       
+
+                                                                                            
+
+                                                                              
+## 165. IP Addresses                                                                        
+
+                                                                                            
+
+                                                                              
+## 166. Lab: Working with Static IP Addresses                                               
+
+                                                                                            
+
+                                                                              
+## 167. Routes                                                                              
+
+                                                                                            
+
+                                                                              
+## 168. Firewall Rules                                                                      
+
+                                                                                            
+
+                                                                              
+## 169. Lab: Working with Firewalls                                                         
+
+                                                                                            
+
+                                                                              
+## 170. Lab: Working with Auto Mode and Custom Mode Networks                                
+
+                                                                                            
+
+                                                                              
+## 171. Lab: Bastion Host                                                                   
+
+                                                                                            
+
+                                                                              
+## 172. Cloud VPN                                                                           
+
+                                                                                            
+
+                                                                              
+## 173. Lab: Working with Cloud VPN                                                         
+
+                                                                                            
+
+                                                                              
+## 174. Cloud Router                                                                        
+
+                                                                                            
+
+                                                                              
+## 175. Lab: Using Cloud Routers for Dynamic Routing                                        
+
+                                                                                            
+
+                                                                              
+## 176. Dedicated Interconnect Direct and Carrier Peering                                   
+
+                                                                                            
+
+                                                                              
+## 177. Shared VPCs                                                                         
+
+                                                                                            
+
+                                                                              
+## 178. Lab: Shared VPCs                                                                    
+
+                                                                                            
+
+                                                                              
+## 179. VPC Network Peering                                                                 
+
+                                                                                            
+
+                                                                              
+## 180. Lab: VPC Peering                                                                    
+
+                                                                                            
+
+                                                                              
+## 181. Cloud DNS And Legacy Networks                                                       
+
+                                                                                            
+
+                                                                              
+## Quiz 3: Networking                                                                       
+
+                                                                                            
+
+                                                                              
+# Section: 19                                                                               
+
+                                                                                            
+
+                                                                              
+# Managed Instance Groups and Load Balancing                                                
+
+                                                                                            
+
+                                                                              
+## 182. About this section                                                                  
+
+                                                                                            
+
+                                                                              
+## 183. Managed and Unmanaged Instance Groups                                               
+
+                                                                                            
+
+                                                                              
+## 184. Types of Load Balancing                                                             
+
+                                                                                            
+
+                                                                              
+## 185. Overview of HTTP(S) Load Balancing                                                  
+
+                                                                                            
+
+                                                                              
+## 186. Forwarding Rules Target Proxy and Url Maps                                          
+
+                                                                                            
+
+                                                                              
+## 187. Backend Service and Backends                                                        
+
+                                                                                            
+
+                                                                              
+## 188. Load Distribution and Firewall Rules                                                
+
+                                                                                            
+
+                                                                              
+## 189. Lab: HTTP(S) Load Balancing                                                         
+
+                                                                                            
+
+                                                                              
+## 190. Lab: Content Based Load Balancing                                                   
+
+                                                                                            
+
+                                                                              
+## 191. SSL Proxy and TCP Proxy Load Balancing                                              
+
+                                                                                            
+
+                                                                              
+## 192. Lab: SSL Proxy Load Balancing                                                       
+
+                                                                                            
+
+                                                                              
+## 193. Network Load Balancing                                                              
+
+                                                                                            
+
+                                                                              
+## 194. Internal Load Balancing                                                             
+
+                                                                                            
+
+                                                                              
+## 195. Autoscalers                                                                         
+
+                                                                                            
+
+                                                                              
+## 196. Lab: Autoscaling with Managed Instance Groups                                       
+
+                                                                                            
+
+                                                                              
+# Section: 20                                                                               
+
+                                                                                            
+
+                                                                              
+# Ops and Security                                                                          
+
+                                                                                            
+
+                                                                              
+## 197. About this section                                                                  
+
+                                                                                            
+
+                                                                              
+## 198. StackDriver                                                                         
+
+                                                                                            
+
+                                                                              
+## 199. StackDriver Logging                                                                 
+
+                                                                                            
+
+                                                                              
+## 200. Lab: Stackdriver Resource Monitoring                                                
+
+                                                                                            
+
+                                                                              
+## 201. Lab: Stackdriver Error Reporting and Debugging                                      
+
+                                                                                            
+
+                                                                              
+## 202. Cloud Deployment Manager                                                            
+
+                                                                                            
+
+                                                                              
+## 203. Lab: Using Deployment Manager                                                       
+
+                                                                                            
+
+                                                                              
+## 204. Lab: Deployment Manager and Stackdriver                                             
+
+                                                                                            
+
+                                                                              
+## 205. Cloud Endpoints                                                                     
+
+                                                                                            
+
+                                                                              
+## 206. Cloud IAM: User accounts, Service accounts, API Credentials                         
+
+                                                                                            
+
+                                                                              
+## 207. Cloud IAM: Roles, Identity-Aware Proxy, Best Practices                              
+
+                                                                                            
+
+                                                                              
+## 208. Lab: Cloud IAM                                                                      
+
+                                                                                            
+
+                                                                              
+## 209. Data Protection                                                                     
+
+                                                                                            
+
+                                                                              
+## Quiz 4: Operations and Security                                                          
+
+                                                                                            
+
+                                                                              
+# Section: 21                                                                               
+
+                                                                                            
+
+                                                                              
+# Appendix: Hadoop Ecosystem                                                                
+
+                                                                                            
+
+                                                                              
+## 210. Introducing the Hadoop Ecosystem                                                    
+
+                                                                                            
+
+                                                                              
+## 211. Hadoop                                                                              
+
+                                                                                            
+
+                                                                              
+## 212. HDFS                                                                                
+
+                                                                                            
+
+                                                                              
+## 213. MapReduce                                                                           
+
+                                                                                            
+
+                                                                              
+## 214. Yarn                                                                                
+
+                                                                                            
+
+                                                                              
+## 215. Hive                                                                                
+
+                                                                                            
+
+                                                                              
+## 216. Hive vs. RDBMS                                                                      
+
+                                                                                            
+
+                                                                              
+## 217. HQL vs. SQL                                                                         
+
+                                                                                            
+
+                                                                              
+## 218. OLAP in Hive                                                                        
+
+                                                                                            
+
+                                                                              
+## 219. Windowing Hive                                                                      
+
+                                                                                            
+
+                                                                              
+## 220. Pig                                                                                 
+
+                                                                                            
+
+                                                                              
+## 221. More Pig                                                                            
+
+                                                                                            
+
+                                                                              
+## 222. Spark                                                                               
+
+                                                                                            
+
+                                                                              
+## 223. More Spark                                                                          
+
+                                                                                            
+
+                                                                              
+## 224. Streams Intro                                                                       
+
+                                                                                            
+
+                                                                              
+## 225. Microbatches                                                                        
+
+                                                                                            
+
+                                                                              
+## 226. Window Types                                                                        
+
+                                                                                            
+
+                                                                              
+## Quiz 5: Hadoop Ecosystem         
 
