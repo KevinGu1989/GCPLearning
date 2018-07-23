@@ -71,9 +71,18 @@ Porject is top level billing instance on GCP
 
  
 ## 9. Google Compute Engine (GCE) 
-
- 
-
+### Hosting Compute Engine
++ Google Cloud Laucher
++ LAMP stack or WorkPress
++ Estaimate cost before deployment
++ Choose machine types, disk sizes
++ Can customise configuration, rename instances etc
++ Full control of machine instances 
++ Loads of storage optoins
+++ Cloud Storage Buckets
+++ Standard persistent disks
+++ SSD
+++ Local 
  
 ## 10. Lab: Creating a VM Instance 
 
