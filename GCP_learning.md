@@ -79,10 +79,10 @@ Porject is top level billing instance on GCP
 + Can customise configuration, rename instances etc
 + Full control of machine instances 
 + Loads of storage optoins
-++ Cloud Storage Buckets
-++ Standard persistent disks
-++ SSD
-++ Local 
+- Cloud Storage Buckets
+- Standard persistent disks
+- SSD
+- Local 
  
 ## 10. Lab: Creating a VM Instance 
 
